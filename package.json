@@ -23,12 +23,6 @@
   },
   "licenses": "MIT",
   "main": "index.js",
-  "dependencies": {
-    "handlebars": "^4.0.5",
-    "nd-jquery": "^2.2.2",
-    "nd-overlay": "^3.0.1",
-    "nd-template": "^3.0.1"
-  },
   "devDependencies": {
     "chai": "^3.5.0",
     "isparta-loader": "^2.0.0",
